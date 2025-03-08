@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom", "TempleOfDoomHerkansing\TempleOfDoom.csproj", "{0EF7E783-C869-4F80-8BE4-06632DB2AF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom.Core", "TempleOfDoom.Core\TempleOfDoom.Core.csproj", "{EB9CA305-C835-47DA-8418-8968EDB5B93E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom.Data", "TempleOfDoom.Data\TempleOfDoom.Data.csproj", "{4C93322E-1734-4290-BA99-ACBAC3B054EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom.UI", "TempleOfDoom.UI\TempleOfDoom.UI.csproj", "{372B4A39-85D5-480E-A5DD-C7B34BD436A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF7E783-C869-4F80-8BE4-06632DB2AF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF7E783-C869-4F80-8BE4-06632DB2AF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF7E783-C869-4F80-8BE4-06632DB2AF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF7E783-C869-4F80-8BE4-06632DB2AF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9CA305-C835-47DA-8418-8968EDB5B93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9CA305-C835-47DA-8418-8968EDB5B93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9CA305-C835-47DA-8418-8968EDB5B93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9CA305-C835-47DA-8418-8968EDB5B93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C93322E-1734-4290-BA99-ACBAC3B054EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C93322E-1734-4290-BA99-ACBAC3B054EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C93322E-1734-4290-BA99-ACBAC3B054EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C93322E-1734-4290-BA99-ACBAC3B054EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372B4A39-85D5-480E-A5DD-C7B34BD436A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B4A39-85D5-480E-A5DD-C7B34BD436A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B4A39-85D5-480E-A5DD-C7B34BD436A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B4A39-85D5-480E-A5DD-C7B34BD436A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

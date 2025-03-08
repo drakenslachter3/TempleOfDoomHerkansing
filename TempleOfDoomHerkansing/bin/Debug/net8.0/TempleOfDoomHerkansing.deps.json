@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TempleOfDoomHerkansing/1.0.0": {
+        "runtime": {
+          "TempleOfDoomHerkansing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TempleOfDoomHerkansing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

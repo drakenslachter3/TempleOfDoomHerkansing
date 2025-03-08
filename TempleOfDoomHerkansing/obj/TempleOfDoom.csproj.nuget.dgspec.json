@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoomHerkansing\\TempleOfDoom.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj",
+        "projectName": "TempleOfDoom.Core",
+        "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj",
+        "packagesPath": "C:\\Users\\The Sailing Saucer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The Sailing Saucer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj": {
+                "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj",
+        "projectName": "TempleOfDoom.Data",
+        "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj",
+        "packagesPath": "C:\\Users\\The Sailing Saucer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The Sailing Saucer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\TempleOfDoom.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\TempleOfDoom.UI.csproj",
+        "projectName": "TempleOfDoom.UI",
+        "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\TempleOfDoom.UI.csproj",
+        "packagesPath": "C:\\Users\\The Sailing Saucer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The Sailing Saucer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj": {
+                "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoomHerkansing\\TempleOfDoom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoomHerkansing\\TempleOfDoom.csproj",
+        "projectName": "TempleOfDoom",
+        "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoomHerkansing\\TempleOfDoom.csproj",
+        "packagesPath": "C:\\Users\\The Sailing Saucer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoomHerkansing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\The Sailing Saucer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj": {
+                "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Core\\TempleOfDoom.Core.csproj"
+              },
+              "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj": {
+                "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.Data\\TempleOfDoom.Data.csproj"
+              },
+              "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\TempleOfDoom.UI.csproj": {
+                "projectPath": "C:\\Users\\The Sailing Saucer\\Desktop\\TempleOfDoomHerkansing\\TempleOfDoom.UI\\TempleOfDoom.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

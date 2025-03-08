@@ -1,0 +1,17 @@
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.UI.deps.json
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.UI.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.UI.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.Core.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.Data.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.Core.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\bin\Debug\net8.0\TempleOfDoom.Data.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.csproj.AssemblyReference.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.AssemblyInfoInputs.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.AssemblyInfo.cs
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.csproj.CoreCompileInputs.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOf.611CFD38.Up2Date
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\refint\TempleOfDoom.UI.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\TempleOfDoom.UI.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoom.UI\obj\Debug\net8.0\ref\TempleOfDoom.UI.dll

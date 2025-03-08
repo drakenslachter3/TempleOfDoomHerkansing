@@ -1,0 +1,14 @@
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\bin\Debug\net8.0\TempleOfDoomHerkansing.exe
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\bin\Debug\net8.0\TempleOfDoomHerkansing.deps.json
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\bin\Debug\net8.0\TempleOfDoomHerkansing.runtimeconfig.json
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\bin\Debug\net8.0\TempleOfDoomHerkansing.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\bin\Debug\net8.0\TempleOfDoomHerkansing.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.AssemblyInfoInputs.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.AssemblyInfo.cs
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.csproj.CoreCompileInputs.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\refint\TempleOfDoomHerkansing.dll
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.pdb
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\TempleOfDoomHerkansing.genruntimeconfig.cache
+C:\Users\The Sailing Saucer\Desktop\TempleOfDoomHerkansing\TempleOfDoomHerkansing\obj\Debug\net8.0\ref\TempleOfDoomHerkansing.dll
